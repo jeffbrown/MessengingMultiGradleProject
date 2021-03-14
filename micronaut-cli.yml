@@ -1,0 +1,6 @@
+applicationType: messaging
+defaultPackage: fete.bird
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, gradle, java, java-application, junit, logback, rabbitmq, readme, rxjava3, shade, yaml]

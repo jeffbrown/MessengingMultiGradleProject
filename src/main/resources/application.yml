@@ -1,0 +1,4 @@
+micronaut:
+  application:
+    name: feteBirdProductConsumer
+rabbitmq.uri: amqp://localhost:5672
